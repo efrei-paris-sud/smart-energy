@@ -1,0 +1,17 @@
+1 seconds : Temp=23.0*  Humidity=26.0% 
+12 seconds : Temp=24.0*  Humidity=24.0% 
+22 seconds : Temp=24.0*  Humidity=23.0% 
+33 seconds : Temp=24.0*  Humidity=23.0% 
+44 seconds : Temp=24.0*  Humidity=23.0% 
+54 seconds : Temp=24.0*  Humidity=24.0% 
+65 seconds : Temp=24.0*  Humidity=24.0% 
+75 seconds : Temp=24.0*  Humidity=24.0% 
+86 seconds : Temp=24.0*  Humidity=23.0% 
+96 seconds : Temp=24.0*  Humidity=23.0% 
+107 seconds : Temp=24.0*  Humidity=22.0% 
+117 seconds : Temp=24.0*  Humidity=22.0% 
+128 seconds : Temp=26.0*  Humidity=95.0% 
+138 seconds : Temp=28.0*  Humidity=95.0% 
+149 seconds : Temp=27.0*  Humidity=95.0% 
+159 seconds : Temp=26.0*  Humidity=95.0% 
+170 seconds : Temp=26.0*  Humidity=95.0% 
